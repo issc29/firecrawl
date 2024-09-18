@@ -11,7 +11,7 @@ jobs:
     permissions: write-all  # Some repositories need this line
 
     steps:
-      - uses: issc29/gpt-commit-summarizer@poolside2
+      - uses: issc29/gpt-commit-summarizer@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           POOLSIDE_KEY: ${{ secrets.POOLSIDE_KEY }}

@@ -2,7 +2,7 @@
   <img
     src="https://raw.githubusercontent.com/mendableai/firecrawl/main/img/firecrawl_logo.png"
     height="200"
-  >
+  > 
 </h3>
 <div align="center"> 
     <a href="https://github.com/mendableai/firecrawl/blob/main/LICENSE">

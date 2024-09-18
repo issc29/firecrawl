@@ -1,4 +1,4 @@
-# Self-hosting Firecrawl   
+# Self-hosting Firecrawl 
  
 #### Contributor?
 

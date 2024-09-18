@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img 
+  <img  
     src="https://raw.githubusercontent.com/mendableai/firecrawl/main/img/firecrawl_logo.png"
     height="200"
   >

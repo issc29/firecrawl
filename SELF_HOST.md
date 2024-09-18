@@ -1,5 +1,5 @@
 # Self-hosting Firecrawl 
- 
+  
 #### Contributor?
 
 Welcome to [Firecrawl](https://firecrawl.dev) 🔥! Here are some instructions on how to get the project locally so you can run it on your own and contribute.

@@ -4,7 +4,7 @@
     height="200"
   > 
 </h3>
-<div align="center">
+<div align="center"> 
     <a href="https://github.com/mendableai/firecrawl/blob/main/LICENSE">
   <img src="https://img.shields.io/github/license/mendableai/firecrawl" alt="License">
 </a>
